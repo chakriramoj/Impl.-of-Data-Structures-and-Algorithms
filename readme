@@ -1,0 +1,13 @@
+Group Members:
+
+1) Chakriramoj Sandireddy - cxs180003
+2) Nikhil Kalekar - nlk180002
+
+Instructions on how to run the code:
+
+1) Need to unzip the cxs180003.zip file
+2) Import the Implementation directory to your local java workspace.
+3) Go to the BoundedQueue.java file
+4) As I have already added few test cases, If you want you can add few more test cases inside the main method.
+5) Run the BoundedQueue.java file
+
